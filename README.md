@@ -1,3 +1,29 @@
+# agents
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 Markdown 编写的 Claude Code、Codex、Cursor 等通用插件、Agent、技能与命令集合。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Plugins, agents, and skills for AI coding tools
 
 <a id="agentic-plugin-marketplace"></a>
